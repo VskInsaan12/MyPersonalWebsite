@@ -60,3 +60,8 @@ body{
 .contact_1 h3{
     display: inline;
 }
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
